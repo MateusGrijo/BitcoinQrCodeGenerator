@@ -1,0 +1,17 @@
+C:\Users\white\source\repos\BitcoinQrCodeGenrator\BitcoinQrCodeGenrator\bin\Debug\zxing.dll
+C:\Users\white\source\repos\BitcoinQrCodeGenrator\BitcoinQrCodeGenrator\bin\Debug\zxing.presentation.dll
+C:\Users\white\source\repos\BitcoinQrCodeGenrator\BitcoinQrCodeGenrator\bin\Debug\zxing.pdb
+C:\Users\white\source\repos\BitcoinQrCodeGenrator\BitcoinQrCodeGenrator\bin\Debug\zxing.xml
+C:\Users\white\source\repos\BitcoinQrCodeGenrator\BitcoinQrCodeGenrator\bin\Debug\zxing.presentation.pdb
+C:\Users\white\source\repos\BitcoinQrCodeGenrator\BitcoinQrCodeGenrator\bin\Debug\zxing.presentation.xml
+C:\Users\white\source\repos\BitcoinQrCodeGenrator\BitcoinQrCodeGenrator\obj\Debug\BitcoinQrCodeGenrator.csprojAssemblyReference.cache
+C:\Users\white\source\repos\BitcoinQrCodeGenrator\BitcoinQrCodeGenrator\obj\Debug\BitcoinQrCodeGenrator.frmMain.resources
+C:\Users\white\source\repos\BitcoinQrCodeGenrator\BitcoinQrCodeGenrator\obj\Debug\BitcoinQrCodeGenrator.Properties.Resources.resources
+C:\Users\white\source\repos\BitcoinQrCodeGenrator\BitcoinQrCodeGenrator\obj\Debug\BitcoinQrCodeGenrator.csproj.GenerateResource.cache
+C:\Users\white\source\repos\BitcoinQrCodeGenrator\BitcoinQrCodeGenrator\obj\Debug\BitcoinQrCodeGenrator.csproj.CoreCompileInputs.cache
+C:\Users\white\source\repos\BitcoinQrCodeGenrator\BitcoinQrCodeGenrator\obj\Debug\BitcoinQrCodeGenrator.csproj.CopyComplete
+C:\Users\white\source\repos\BitcoinQrCodeGenrator\BitcoinQrCodeGenrator\obj\Debug\BitcoinQrCodeGenrator.frmImage.resources
+C:\Users\white\source\repos\BitcoinQrCodeGenrator\BitcoinQrCodeGenrator\bin\Debug\QRCodeGenerator.exe
+C:\Users\white\source\repos\BitcoinQrCodeGenrator\BitcoinQrCodeGenrator\bin\Debug\QRCodeGenerator.pdb
+C:\Users\white\source\repos\BitcoinQrCodeGenrator\BitcoinQrCodeGenrator\obj\Debug\QRCodeGenerator.exe
+C:\Users\white\source\repos\BitcoinQrCodeGenrator\BitcoinQrCodeGenrator\obj\Debug\QRCodeGenerator.pdb
